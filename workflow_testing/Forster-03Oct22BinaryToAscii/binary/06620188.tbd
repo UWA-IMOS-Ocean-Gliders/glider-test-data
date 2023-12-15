@@ -1,0 +1,29 @@
+dbd_label:    DBD(dinkum_binary_data)file
+encoding_ver:    5
+num_ascii_tags:    14
+all_sensors:    F
+the8x3_filename:    06620188
+full_filename:    unit210-2022-274-6-188
+filename_extension:    tbd
+mission_name:    IMOSGO40.MI
+fileopen_time:    Mon_Oct_10_16:13:23_2022
+total_num_sensors:    73
+sensors_per_cycle:    12
+state_bytes_per_cycle:    3
+sensor_list_crc:    23181ecb
+sensor_list_factored:    0
+s: F    0   -1 1 sci_ad2cp_file_state enum
+s: F    1   -1 4 sci_badd_error nodim
+s: F    2   -1 1 sci_badd_finished bool
+s: F    3   -1 4 sci_badd_n_tries_to_connect nodim
+s: F    4   -1 1 sci_badd_power_on bool
+s: F    5   -1 4 sci_badd_target_range m
+s: F    6   -1 1 sci_ctd41cp_is_installed bool
+s: F    7   -1 8 sci_ctd41cp_timestamp timestamp
+s: F    8   -1 4 sci_flbbcd_bb_ref nodim
+s: F    9   -1 4 sci_flbbcd_bb_sig nodim
+s: T   10    0 4 sci_flbbcd_bb_units nodim
+s: F   11   -1 4 sci_flbbcd_cdom_ref nodim
+s: F   12   -1 4 sci_flbbcd_cdom_sig nodim
+s: T   13    1 4 sci_flbbcd_cdom_units ppb
+s: F   14   -1 4 

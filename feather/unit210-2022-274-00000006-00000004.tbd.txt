@@ -1,0 +1,18 @@
+dbd_label: DBD_ASC(dinkum_binary_data_ascii)file
+encoding_ver: 2
+num_ascii_tags: 14
+all_sensors: 0
+filename: unit210-2022-274-6-4
+the8x3_filename: 06620004
+filename_extension: tbd
+filename_label: unit210-2022-274-6-4-tbd(06620004)
+mission_name: IMOSGO40.MI
+fileopen_time: Mon_Oct__3_01:51:00_2022
+sensors_per_cycle: 12
+num_label_lines: 3
+num_segments: 1
+segment_filename_0: unit210-2022-274-6-4
+sci_flbbcd_bb_units sci_flbbcd_cdom_units sci_flbbcd_chlor_units sci_m_present_time sci_ocr504i_irrad1 sci_ocr504i_irrad2 sci_ocr504i_irrad3 sci_ocr504i_irrad4 sci_oxy3835_wphase_oxygen sci_water_cond sci_water_pressure sci_water_temp
+nodim ppb ug/l timestamp uw/cm^2/nm uw/cm^2/nm uw/cm^2/nm uw/cm^2/nm nodim s/m bar degc
+4 4 4 8 4 4 4 4 4 4 4 4
+0.000278556 0.36 0.3388 1664761855.27179 58.7695 55.6382 55.2069 55.1549 213.08 4.69858 0.013 18.7884
